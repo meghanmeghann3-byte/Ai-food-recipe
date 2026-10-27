@@ -1,0 +1,10 @@
+{
+  "name": "LeftoverLens — AI Food Rescue",
+  "description": "See the potential. Save the food. Real-time food scan with front camera preference, AI food recognition, leftover recipes, pantry management, and waste tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
